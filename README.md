@@ -4,6 +4,10 @@ We are going to build a basic module to learn how to build on Aptos. Modules in 
 
 0. Getting started: Clone https://github.com/aeither/aptos-starter/
 
+only the `.move` files and `Move.toml` are required to follow this guide.
+- Move.toml
+- sources/
+
 ### 1. Setup Wallet
 
 Install [Martian Wallet](https://chrome.google.com/webstore/detail/martian-aptos-wallet/efbglgofoippbgcjepnhiblaibcnclgk) extension. It's the most Popular wallet with more than 600K downloads
