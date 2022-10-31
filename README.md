@@ -64,7 +64,7 @@ BUILDING Examples
 }
 ```
 
-The `--named-addresses` is a list of address mappings that must be translated in order for the package to be compiled to be stored in Alice's account. `--save-metadata` is required to publish the package.
+The `--named-addresses` is a list of address mappings that must be translated in order for the package to be compiled to be stored in the default account. `--save-metadata` is required to publish the package.
 
 ### 6. Test
 
