@@ -5,7 +5,7 @@ In the past few days, I have been exploring resources to get started with Aptos.
 Martian Wallet - Most Popular wallet with more than 600K downloads
 https://chrome.google.com/webstore/detail/martian-aptos-wallet/efbglgofoippbgcjepnhiblaibcnclgk
 
-**WALLETS**
+![WALLETS](https://user-images.githubusercontent.com/36173828/198897078-460278b0-716f-4e96-b383-a5477252e910.png)
 
 Petra Wallet - From Aptos core Team
 Blocto, Pontem...
