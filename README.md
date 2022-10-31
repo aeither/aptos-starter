@@ -1,6 +1,7 @@
 # Aptos Hello World
 
 We are going to build a basic module to learn how to build on Aptos. Modules in Aptos are like contracts in EVM chains.
+Clone https://github.com/aeither/aptos-starter/
 
 ### 1. Setup Wallet
 
