@@ -159,3 +159,5 @@ You can find the original [here](https://aptos.dev/tutorials/first-move-module) 
 This is a modified version where I have added, removed, and modified pieces of content to better fit my journey.
 
 PD: You should NOT expose to the public the `.aptos` folder as it contain the privateKey.
+
+Learn more: https://github.com/aeither/aptos-starter/blob/main/AWESOME_STARTER_LIST.md
