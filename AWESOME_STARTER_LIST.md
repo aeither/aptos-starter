@@ -129,7 +129,7 @@ https://github.com/aptos-labs/aptos-core/blob/main/aptos-move/framework/move-std
 
 ### Ecosystem Apps
 
-The first apps that we can try on Aptos mainnet. 
+The first apps that we can find on Aptos mainnet. 
 
 - https://ariesmarkets.xyz - lending, swap aggregator
 - argo.fi - collateral stable
